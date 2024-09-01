@@ -1,0 +1,22 @@
+Objective 3: Algorithm
+Task 3: Implement an algorithm for making a simple calculator with all the operators (+, -,*,/,%)
+
+1.	Set the four operators as input
+•	ADDITION (+)
+•	SUBTRACTION (-)
+•	DIVISION (/)
+•	PERCENTAGE (%)
+2.	Set the two numbers as input number 1 and number 2
+3.	IF the operators is (+) then add the two numbers
+ELSE no calculation needed
+ PRINT the result of (number 1 + number 2)
+4.	IF the operators is (-) then subtract the two numbers
+ELSE no calculation needed
+ PRINT the result of (number 1 - number 2)
+5.	IF the operators is (*) then multiply the two numbers
+ELSE no calculation needed
+ PRINT the result of (number 1 * number 2)
+6.	IF the operators is (%) then the ratio of two numbers is multiplied by 100
+ELSE no calculation needed
+ PRINT the result of (number 1 / number 2) *100
+

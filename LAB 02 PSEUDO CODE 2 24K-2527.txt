@@ -1,0 +1,21 @@
+Objective 2 Pseudo Code
+Task 3
+•	Create the small calculator which only does ‘+’ or ‘- ‘. Operations. 
+01 START
+02
+03 //Input/output
+04 Input operator 1 (+ or -)
+05 Input number 2
+06 Input number 3
+07
+08 //Variables and Initialization
+09 Set Input 1, Input 2 and Input 3 to zero
+10
+11 //Conditional Statements
+12 IF operator is (+) then sum (number 2 + number 3) THEN 
+13 PRINT “The sum of two numbers”
+14 ELSE
+15 Subtract the two numbers (number 2 - number 3)
+15 PRINT “The subtraction of two numbers”
+16 ENDS
+

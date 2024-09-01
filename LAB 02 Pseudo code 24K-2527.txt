@@ -1,0 +1,26 @@
+Objective 2 Pseudo Code
+Task 2
+•	Take three variables and add them without using the + operator 
+
+
+01 START
+02
+03 // Input/output
+04 INPUT number 1
+05 INPUT number 2
+06 INPUT number 3
+07
+08 // Variable and Initialization
+09 SET sum to 0
+10
+11 //Process Steps
+12 SET sum to -(-number 1 - number 2 - number 3)
+13
+14 // Conditional Statements
+15 IF sum > 0 THEN
+16 PRINT “The sum is positive”
+17 ELSE
+18 PRINT “The sum is non-positive”
+19 END
+
+

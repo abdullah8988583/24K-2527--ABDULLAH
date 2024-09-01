@@ -1,0 +1,11 @@
+Objective 3: Algorithms
+Task 02
+
+•	 Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
+
+
+1.	Set a general number (n).
+2.	Set a second Nth number which is divisor.
+3.	If (n) number is a multiple of Nth number then Nth number is a divisor of n number else it is not a divisor of n number.
+4.	After dividing completely by Nth number. The number after which Nth is multiplied to form the n is called the quotient. It is also the answer of our division.
+5.	Check the quotient IF it contains digits like (0,2,4,6,8) at unit place it is even else it is odd.  
