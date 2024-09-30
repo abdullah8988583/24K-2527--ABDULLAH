@@ -1,0 +1,23 @@
+Objective 2: Pseudo Code
+
+Task 1
+
+01 START
+02
+03 // Input/output
+04 Input Number 1
+05 Input Number 2
+06 Input Number 3
+07
+08 // Variables and Initialization
+09 Set comparision between three number
+10
+11 Process Steps
+12 Set comparision between number 1, number 2, number 3
+13
+14 // Conditional Statements
+15 IF number 1&gt;number 2&gt;number
+16 PRINT “Number 1 is greater”
+17 ELSE
+18 “Number 2 is greater”
+19 END

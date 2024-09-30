@@ -1,0 +1,30 @@
+Objective 3 Algorithm
+
+Task 2 Problem: - Implement an algorithm where the user enters a number, and an appropriate month is
+displayed
+Solution
+1. Ask the user to enter number from 1 to 12
+2. Set 1 for January
+3. Set 2 for February
+4. Set 3 for March
+5. Set 4 for April
+6. Set 5 for May
+7. Set 6 for June
+8. Set 7 for July
+9. Set 8 for August
+10. Set 9 for September
+11. Set 10 for October
+12. Set 11 for November
+13. Set 12 for December
+14. IF the number is 1 then January will be displayed else invalid month.
+15. IF the number is 2 then February will be displayed else invalid month.
+16. IF the number is 3 then March will be displayed else invalid month.
+17. IF the number is 4 then April will be displayed else invalid month.
+18. IF the number is 5 then May will be displayed else invalid month.
+19. IF the number is 6 then June be displayed else invalid month.
+20. IF the number is 7 then July will be displayed else invalid month.
+21. IF the number is 8 then August will be displayed else invalid month.
+22. IF the number is 9 then September will be displayed else invalid month.
+23. IF the number is 10 then October will be displayed else invalid month.
+24. IF the number is 11 then November will be displayed else invalid month.
+25. IF the number is 12 then December will be displayed else invalid month.
